@@ -9,5 +9,8 @@
         <module name="parking-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parking-service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
